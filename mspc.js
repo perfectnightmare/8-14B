@@ -25,7 +25,7 @@ const runParties = require('./parties.js');
 const runApartment = require('./apartment.js');
 const runTeleport = require('./teleport-activation.js');
 const runGifts = require('./gifts-activation.js');
-const runDuelFP = require('./duel-fp');
+const runDuelFP = require('./duel-fp.js');
 const runClaimRewards = require('./claim-BPrewards.js');
 
 
